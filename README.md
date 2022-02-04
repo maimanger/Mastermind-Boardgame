@@ -1,6 +1,6 @@
 # Mastermind Boardgame
 
-<img width="800px" src="./screenshot.png">
+<img width="600px" src="./screenshot.png">
 <br />
 
 ## About the Project
